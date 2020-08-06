@@ -1,5 +1,5 @@
 # clone_to_azure
-Bash scripts for importing github and gitlab repos to azure.
+Bash scripts used for importing github and gitlab repos to azure.
 
 # TODO
 * Delete all txt files at the end
