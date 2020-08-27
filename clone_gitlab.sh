@@ -1,5 +1,5 @@
 #!/bin/bash
-# Elisa Aliverti-Piuri, 6-Aug-2020
+# elisaliv, 6-Aug-2020
 
 # You need to have azure-cli installed to run this script
 
